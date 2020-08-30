@@ -1,0 +1,13 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+@import "./app/home/navbar/navbar.css";
+@import "./app/home/homeContainer/homeContainer.css";
+@import "./app/home/personalDetail/personaldetail.css";
+@import "./app/home/whatIDo/whatIDo.css";
+@import "./app/home/projectRecord/projectRecord.css";
+@import "./app/home/footer/footer.css"
