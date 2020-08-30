@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Theme1/static/css/main.ad817fcd.chunk.css",
+    "main.js": "/React-Theme1/static/js/main.ffbb353b.chunk.js",
+    "main.js.map": "/React-Theme1/static/js/main.ffbb353b.chunk.js.map",
+    "runtime-main.js": "/React-Theme1/static/js/runtime-main.14a381a2.js",
+    "runtime-main.js.map": "/React-Theme1/static/js/runtime-main.14a381a2.js.map",
+    "static/js/2.fc32cebd.chunk.js": "/React-Theme1/static/js/2.fc32cebd.chunk.js",
+    "static/js/2.fc32cebd.chunk.js.map": "/React-Theme1/static/js/2.fc32cebd.chunk.js.map",
+    "index.html": "/React-Theme1/index.html",
+    "precache-manifest.3bee9ef6ef462a808c1f06b1a18e8f4d.js": "/React-Theme1/precache-manifest.3bee9ef6ef462a808c1f06b1a18e8f4d.js",
+    "service-worker.js": "/React-Theme1/service-worker.js",
+    "static/css/main.ad817fcd.chunk.css.map": "/React-Theme1/static/css/main.ad817fcd.chunk.css.map",
+    "static/js/2.fc32cebd.chunk.js.LICENSE.txt": "/React-Theme1/static/js/2.fc32cebd.chunk.js.LICENSE.txt",
+    "static/media/Hamza.jpg": "/React-Theme1/static/media/Hamza.901d5413.jpg",
+    "static/media/style.css": "/React-Theme1/static/media/hero-area.f02075fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14a381a2.js",
+    "static/js/2.fc32cebd.chunk.js",
+    "static/css/main.ad817fcd.chunk.css",
+    "static/js/main.ffbb353b.chunk.js"
+  ]
+}
